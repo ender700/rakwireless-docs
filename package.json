@@ -45,7 +45,7 @@
     ]
   },
   "devDependencies": {
-    "patch-package": "^6.2.2",
+    "patch-package": "^8.0.1",
     "postinstall-prepare": "^1.0.1"
   }
 }
